@@ -1,4 +1,4 @@
-# Ex. No. 5 — Using Autopsy to Create a Case and Import Digital Evidence
+#  Using Autopsy to Create a Case and Import Digital Evidence
 
 ---
 
