@@ -99,6 +99,6 @@ To use **Autopsy**, a digital forensic analysis tool, to create a new forensic c
 
 ## **Result**
 Successfully created a forensic case using **Autopsy**, imported and analyzed digital evidence, performed file system, keyword, timeline, and hash analysis, and generated a comprehensive forensic report.  
-This experiment demonstrates the capability of **Autopsy** for complete digital forensic case management and evidence analysis.
+
 
 ---
